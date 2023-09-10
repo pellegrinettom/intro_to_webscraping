@@ -1,0 +1,20 @@
+# VS Code settings
+.vscode/
+.settings.json
+.history
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+virtualenv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# macOS
+.DS_Store
